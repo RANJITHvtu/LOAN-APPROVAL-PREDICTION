@@ -1,0 +1,2 @@
+# LOAN-APPROVAL-PREDICTION
+Loan Approval Prediction is an Internship Project worked under Innovation. Creation (IC Solutions) . Aim of this project is to provide quick , immediate and easy way to choose the deserving applicants to the banks. In this project we are predicting the loan data using some machine learning algorithms like : Linear Regression, Logistic Regression, Support Vector Machine, Random Forest, Decision Tree and Polynomial Regression.
